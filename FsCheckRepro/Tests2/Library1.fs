@@ -1,4 +1,4 @@
-﻿module TestsLib
+﻿module TestsLib2
 open MyLibrary
 open FsCheck.Xunit
 
